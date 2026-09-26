@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sitemap-stats",
   "title": "Sitemap Stats",
   "description": "Sitemap Stats MCP — reads a domain's sitemap(s) and reports their STRUCTURE,",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/sitemap-stats",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sitemap-stats",
