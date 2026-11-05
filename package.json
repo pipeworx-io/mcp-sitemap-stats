@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sitemap-stats",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Sitemap Stats MCP — reads a domain's sitemap(s) and reports their STRUCTURE, not their content. Fleet task #1139.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sitemap-stats",
     "gatewaySlug": "sitemap-stats",
-    "sourceHash": "v1-faa1ee881b114f5c11f0a431c1f2d42dbe62338a67c82bc6101b5286f5871466",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-5e4ab5d03ed8212dfe1d8b4dc42a327a244a7dc94ed8073b42e0675f9c8f24e6",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
